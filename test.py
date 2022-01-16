@@ -7,10 +7,4 @@ df = DataFrame()
 
 
 
-
-
-
-
-
-
 print('hello world')
